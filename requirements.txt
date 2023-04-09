@@ -5,4 +5,7 @@ scikit-learn
 matplotlib
 catboost
 xgboost
+dill
+pickle
+
 #-e .   # automatically triggered setup.py file
